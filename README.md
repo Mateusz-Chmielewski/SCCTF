@@ -31,3 +31,12 @@ The operation of the device relies on the use of a microcontroller to control th
 The controller counts the passes of the vehicle with the help of a limit sensor (switch) mounted in the appropriate place of the seeder. During a certain pass with the relay, it engages the actuator and gives an acoustic signal 
 
 ![System](./docs/images/system.png)
+
+## Usage
+Currently, the controller is mounted on the machine of the person who ordered it. The device is field-proven after spring sowing.
+
+![Machine](./docs/images/machine.jpg) ![Sowing](./docs/images/sowing.gif)
+
+![Machine](./docs/images/20230401_170921.jpg) ![Sowing](./docs/images/20230401_170339.jpg)
+
+![Machine](./docs/images/20230401_170334.jpg) ![Sowing](./docs/images/20230401_170834.jpg)
